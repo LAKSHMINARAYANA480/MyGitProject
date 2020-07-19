@@ -10,4 +10,10 @@ Synchronized(MySingleton.class);
 
 }
 retuner instance;
+
+}
+
+My CLASSDEMO{
+public Static Void Main(String[] args){
+System.out.println("my merge Stated  here")
 }
